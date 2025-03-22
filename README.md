@@ -62,7 +62,7 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 
 PRESS F2/ FN + 2  BEFORE PRESS ² FOR ANY OF THESE TO WORK
 
-TO GIVE A COMMAND TO ANOTHER PLAYER, PUT THERE NAME SURROUNDED BY BACKSLASHES AFTER THE COMMAND (example, cheat god \player ID\)
+TO GIVE A COMMAND TO ANOTHER PLAYER, PUT THERE NAME SURROUNDED BY BACKSLASHES AFTER THE COMMAND (example, cheat god \player ID\\)
 
 | Function                      	    |		    Download links             |
 | ----------------------------- | ------------------------------ |
