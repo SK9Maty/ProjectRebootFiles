@@ -60,6 +60,10 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 
 (only the essantials commands here, for more continue to scrolling)
 
+PRESS F2/ FN + 2  BEFORE PRESS ² FOR ANY OF THESE TO WORK
+
+TO GIVE A COMMAND TO ANOTHER PLAYER, PUT THERE NAME SURROUNDED BY BACKSLASHES AFTER THE COMMAND (example, cheat god \player ID\)
+
 | Function                      	    |		    Download links             |
 | ----------------------------- | ------------------------------ |
 | Start a game | open 127.0.0.1 (in the locker) |
