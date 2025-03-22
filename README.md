@@ -20,6 +20,10 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | 	Reboot Launcher v5.2          | https://tinyurl.com/yjtv7k8c |
 |   Reboot Launcher v7 (best)        | https://tinyurl.com/3dby33bj |
 |   Reboot Launcher v10 (can fix a lot of bug) |https://tinyurl.com/k8865w8t|
+|  Others    | https://github.com/Auties00/Reboot-Launcher/releases
+
+
+
 
 
 # 2. Fortnite builds
