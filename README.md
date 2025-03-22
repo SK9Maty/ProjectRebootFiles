@@ -54,3 +54,6 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 (temporaly down) |
 
+
+# 2. Important commands
+
