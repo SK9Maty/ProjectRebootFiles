@@ -124,3 +124,6 @@ TO GIVE A COMMAND TO ANOTHER PLAYER, PUT THERE NAME SURROUNDED BY BACKSLASHES AF
 |Double Pump | Weapon.TryToFireRestrictedByTypeCooldowns 0             	|
 
 
+
+https://github.com/KedisPL/Project-Reboot-commands
+
