@@ -10,9 +10,17 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 
 
 
+# 1. Lunchers
 
 
-# 1. Fortnite builds
+| Version                         |		    Download links             |
+| -----------------------------   | ------------------------------ |
+| 	Reboot Launcher v5.2          | https://tinyurl.com/yjtv7k8c |
+|   Reboot Launcher v7 (best)        | https://tinyurl.com/3dby33bj |
+|   Reboot Launcher v10 (can fix a lot of bug) |https://tinyurl.com/k8865w8t|
+
+
+# 3. Fortnite builds
 
 (only the best saison)
 
@@ -53,16 +61,6 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 (temporaly down) |
-
-
-# 2. Lunchers
-
-
-| Version                         |		    Download links             |
-| -----------------------------   | ------------------------------ |
-| 	Reboot Launcher v5.2          | https://tinyurl.com/yjtv7k8c |
-|   Reboot Launcher v7 (best)        | https://tinyurl.com/3dby33bj |
-|   Reboot Launcher v10 (can fix a lot of bug) |https://tinyurl.com/k8865w8t|
 
 
 
