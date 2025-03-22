@@ -6,7 +6,7 @@ In this repo i show you all the cmd/files and unknown(premium) cmd of lawin serv
 
 Everyone go to https://discord.gg/Wf9rMPRWN8
 
-Credits : Thanks to @n6617x for the fortnite build, thanks for @code_ldx (dc) for a lot of cmds
+Credits : Thanks to @n6617x for the fortnite build, thanks for @code_ldx (dc) for the cmds
 
 If you wish to contribute anything that isn't listed here, DM twitch_maty on discord
 
