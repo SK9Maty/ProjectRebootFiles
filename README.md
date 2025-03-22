@@ -55,5 +55,15 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 (temporaly down) |
 
 
+
 # 2. Important commands
+
+(only the essantials commands here, for more continue to scrolling)
+
+| Function                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://public.simplyblk.xyz/14.00.rar|
+| 14.40-CL-14550713	          | 21-10-20         	 | UE4.26            	    |		https://public.simplyblk.xyz/14.40.rar|
+| 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://public.simplyblk.xyz/14.60.rar|
+
 
