@@ -20,7 +20,7 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 |   Reboot Launcher v10 (can fix a lot of bug) |https://tinyurl.com/k8865w8t|
 
 
-# 3. Fortnite builds
+# 2. Fortnite builds
 
 (only the best saison)
 
