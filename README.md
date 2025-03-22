@@ -55,9 +55,7 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 (temporaly down) |
 
 
-# 2. Lunchers 
-
-
+# 2. Lunchers
 | Version                         		    Download links             |
 | -----------------------------   | ------------------------------ |
 | 	Reboot Launcher v5.2          | https://tinyurl.com/yjtv7k8c |
