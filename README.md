@@ -64,6 +64,23 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | ----------------------------- | ------------------------------ |
 | be invincible	                |		cheat god|
 | delete the map	            |		streammap creative_background|
-| 14.60-CL-14786821             |		https://public.simplyblk.xyz/14.60.rar|
+| Time Of Day  | settimeofday (1-24, put in DLL console)
+|Give Permissions | cheat op \player ID\
+|Take Away Permissions | cheat deop \player ID\
+|Start Aircraft | startaircraft (put this in dll console)
+|Change Field Of View | fov (#)|
+|Pause Zone | cheat pausesafezone|
+|Spawn Bots | cheat spawnbot (#)|
+|Set A Players Health | cheat sethealth (#)|
+|Set A Players Shields | cheat setshield (#)|
+|Cap Max Players | cheat setmaxplayers (#)|
+|List Of Players | cheat listplayers|
+|Toggle Infinite Health | cheat god|
+|Insta Kill | suicide|
+|Teleport To Where Player Is Looking | cheat teleport/cheat tp|
+|Teleport (specific) | cheat bugitgo (x,y,z)|
+|BugItGo Helper | showdebug|
+|Custom Resolution | setres (HORIZONTALxVERTICAL) (FULLSCREEN ONLY, DOESNT WORK ON WINDOWED) |
+|Double Pump | Weapon.TryToFireRestrictedByTypeCooldowns 0             	|
 
 
