@@ -62,11 +62,12 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 
 | Function                      	    |		    Download links             |
 | ----------------------------- | ------------------------------ |
-| be invincible	                |		cheat god|
-| delete the map	            |		streammap creative_background|
-| Time Of Day  | settimeofday (1-24, put in DLL console)
-|Give Permissions | cheat op \player ID\
-|Take Away Permissions | cheat deop \player ID\
+| Start a game | open 127.0.0.1|
+| Be invincible	                |		cheat god|
+| Delete the map	            |		streammap creative_background|
+| Change the hour  | settimeofday (1-24, put in DLL console)
+| Give Permissions | cheat op \player ID\
+| Take Away Permissions | cheat deop \player ID\
 |Start Aircraft | startaircraft (put this in dll console)
 |Change Field Of View | fov (#)|
 |Pause Zone | cheat pausesafezone|
