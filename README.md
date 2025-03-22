@@ -55,8 +55,18 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 (temporaly down) |
 
 
+# 2. Lunchers 
 
-# 2. Important commands
+
+| Version                         		    Download links             |
+| -----------------------------   | ------------------------------ |
+| 	Reboot Launcher v5.2 | https://cdn.discordapp.com/attachments/1201106033502859324/1201106393952956466/reboot_launcher-5.2.05.2.0-windows-setup.exe?ex=67dfdd7f&is=67de8bff&hm=90c5149e5b7ab3da1e534b059f661d95669be09fb4f8ff4c84d4c18bd9c3f19e&
+|Reboot Launcher v7 (best) |
+|Reboot Launcher v10 (can fix a lot of bug) |
+
+
+
+# 3. Important commands
 
 (only the essantials commands here, for more continue to scrolling)
 
