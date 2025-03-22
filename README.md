@@ -4,7 +4,9 @@ In this repo i show you all the cmd/files and unknown(premium) cmd of lawin serv
 
 ## Usage & Other information.
 
-Credits: Everyone go to https://discord.gg/Wf9rMPRWN8
+Everyone go to https://discord.gg/Wf9rMPRWN8
+
+Credits : Thanks to @n6617x for the fortnite build, thanks for @code_ldx (dc) for a lot of cmds
 
 If you wish to contribute anything that isn't listed here, DM twitch_maty on discord
 
@@ -61,6 +63,27 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 (temporaly down) |
+
+
+# 3. Code/ Server part
+
+| Type                         |		    Download links             |
+| -----------------------------   | ------------------------------ |
+| 	Lawin Server          | https://tinyurl.com/435a55pk |
+|   Node.js        | https://nodejs.org/fr |
+
+
+# 4. DLLS
+
+| Type                         |		    Download links             |
+| -----------------------------   | ------------------------------ |
+| 	Project Reboot          | https://tinyurl.com/frwu27fk |
+|   Fortnite Console       | https://tinyurl.com/2zwv6csm |
+|   Cranium v2 |  https://tinyurl.com/bddkvp5f |
+
+
+
+
 
 
 
