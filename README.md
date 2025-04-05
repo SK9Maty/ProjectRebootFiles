@@ -91,7 +91,7 @@ If you wish to contribute anything that isn't listed here, DM twitch_maty on dis
 
 
 
-# 3. Important commands
+# 5. Important commands
 
 (only the essantials commands here, for more continue to scrolling)
 
@@ -126,4 +126,17 @@ TO GIVE A COMMAND TO ANOTHER PLAYER, PUT THERE NAME SURROUNDED BY BACKSLASHES AF
 
 
 https://github.com/KedisPL/Project-Reboot-commands
+
+
+# 6. Reboot ultimate
+
+
+| Type                         |		    Download links             |
+| -----------------------------   | ------------------------------ |
+| 	GitHub           | https://github.com/max8447/Reboot-Ultimate |
+|    Dlls | https://tinyurl.com/yjmk3mnn |
+
+
+
+
 
