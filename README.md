@@ -99,7 +99,7 @@ PRESS F2/ FN + 2  BEFORE PRESS ² FOR ANY OF THESE TO WORK
 
 TO GIVE A COMMAND TO ANOTHER PLAYER, PUT THERE NAME SURROUNDED BY BACKSLASHES AFTER THE COMMAND (example, cheat god \player ID\\)
 
-| Function                      	    |		    Download links             |
+| Function                      	    |		    Commands             |
 | ----------------------------- | ------------------------------ |
 | Start a game | open 127.0.0.1 (in the locker) |
 | Be Invincible	                |		cheat god|
@@ -135,6 +135,15 @@ https://github.com/KedisPL/Project-Reboot-commands
 | -----------------------------   | ------------------------------ |
 | 	GitHub           | https://github.com/max8447/Reboot-Ultimate |
 |    Dlls | https://tinyurl.com/yjmk3mnn |
+
+
+# 7. VIP cmds
+
+
+| Functions                        |		   Commands             |
+| -----------------------------   | ------------------------------ |
+| 	Respawning (only 14 versions)      | /Game/Athena/Playlists/Respawn/Playlist_Respawn_Solo.Playlist_Respawn_Solo (in the gui) |
+
 
 
 
